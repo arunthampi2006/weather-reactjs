@@ -6,7 +6,7 @@ const Header = (props) => (
         <div className="container">
             <div className="brand">
                 <i className="brand-icon fa fa-sun-o fa-2x"></i>
-                <span className="brand-text">{props.title}</span>
+                <span className="brand-text">{props.title}fdfdfdf</span>
             </div>
         </div>
     </nav>
